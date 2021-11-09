@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(215, 234, 241);
+}
+h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+img{
+    width: 50%;
+    height: 50%;
+    float:right;
+    margin-left: 10px;
+
+}
